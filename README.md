@@ -16,3 +16,5 @@ Deliverable: JAR
 	"chickenOrBeefTacoQuantity": 2,
 	"chorizoTacoQuantity": 1
 }`
+
+Make sure to set content-type to application\json
