@@ -1,2 +1,4 @@
-# taco-loco
-A test project for Detroitlabs
+# Quick Start Guid
+Deliverable: JAR
+
+
