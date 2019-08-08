@@ -11,8 +11,8 @@ Deliverable: JAR
 3. Open Postman and make post request with this url: `http://localhost:8090/api/v1/create-order`
 
 4. Use this Json format: 
-```{
+`{
 	"vegTacoQuantity": 1,
 	"chickenOrBeefTacoQuantity": 2,
 	"chorizoTacoQuantity": 1
-}```
+}`
